@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789836582938",
+    "project_id": "prepai-f5dfe",
+    "storage_bucket": "prepai-f5dfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789836582938:android:827955cb1d8706a15141a3",
+        "android_client_info": {
+          "package_name": "com.prepai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789836582938-3094h6h9muba7m61nagbt4q8qlc4s59e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prepai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "789836582938-96nskb1kp3fhit7226vi64hn5blu4r12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prepai",
+            "certificate_hash": "792fa02122e57ec6875e6eac72ce4644163cd0d1"
+          }
+        },
+        {
+          "client_id": "789836582938-mvscpvkosepl848utr57d257r0gqnkte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_I4nMLpk3lIu04GktiLF6ofVb0xGXHTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789836582938-mvscpvkosepl848utr57d257r0gqnkte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
